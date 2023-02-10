@@ -2,9 +2,11 @@
 
 The directions below are my mere suggestions and are not intended to arise any conflict. Rather any valuable modification is most welcome.
 
-#### **Reference**
+#### **Reference links**
 * [RevelTek](https://reveltek.com)
 * [RevelTek HandBook](https://focushive-my.sharepoint.com/:b:/g/personal/aleem_focuspass_com/EVm5bu0iX6xBlyV7slgfvaMB3Jlefy8U9IuuD2D2_5-Q3A)
+* [McKinsey & Company](https://www.mckinsey.com/)
+* [Deloitte](https://www.deloitte.com/global/en.html)
 ---
 
 
@@ -31,6 +33,11 @@ The sub contents of "Services" shall be:
 * Human Resource Services
 * Advisory
 * Digital Marketing
+* Management and Financial Consulting, Acquisition and Grants Management Support, and Business Program and Project Management Services.
+* Marketing Consulting Services.
+* Custom Computer Programming Services.
+* Processes, Physical Distribution, and Logistics Consulting Services
+
 
 ### **Industries**
 The sub contents of "Industries" shall be:
