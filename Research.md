@@ -46,6 +46,22 @@ The sub contents of "Industries" shall be:
 * Startups
 * Healthcare
 
+### **Insights**
+The subcontents of "Insights" shall include:
+* AI
+* Agile org
+* Inflation
+* Cybersecurity
+* Cloud
+* Analytics
+* Digital Apps
+* Infrastructure
+* Cybersecurity
+* Metaverse
+* Sustainability
+* Blockchain
+* Future of Work
+
 
 
 
