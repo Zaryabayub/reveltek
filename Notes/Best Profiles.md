@@ -3,7 +3,7 @@
 ## $10 USD Prize Per Person that Participated!!! :money_mouth_face: :money_mouth_face:
 
 - [Sean](https://github.com/kinshark)
-- [Suzy](https://github.com/SuzyQuant?tab=overview&from=2020-12-01&to=2020-12-31)
+- [Suzy](https://github.com/SuzyQuant)
 - [Malik Ilyas](https://github.com/Malik-RevelTek)
 - [Aleem](https://github.com/Aleem-Reveltek)
 - [Myla](https://github.com/Myla00)
