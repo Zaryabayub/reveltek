@@ -36,3 +36,26 @@ SIN 518210C $ 500,000
 
 Overall, SIN 518210C provides federal agencies with access to a wide range of cloud and cloud-related IT professional services from qualified vendors,
 allowing them to migrate their IT systems and applications to the cloud, develop and deploy cloud-based applications, and manage and secure their cloud infrastructure.
+
+# 541690A - Integrated Consulting Services
+
+#### Services Offered:
+- Contractors under this SIN code may provide services related to management consulting, environmental consulting, financial consulting, IT consulting, and many other areas.
+- Strategic planning
+- Program management
+- Risk management
+- Process improvement
+- Technical evaluation
+
+# 541690B - Other Scientific and Technical Consulting Services
+
+- Maximum Order: $1,000,000.00
+- Minimum Order: $100.0
+
+#### Activities
+- performance analysis
+- Feasibility analysis
+- Logistics planning 
+- Policy standards/procedures development
+- Conducting research studies
+- Long-term reliability and maintainability
