@@ -1,3 +1,4 @@
+
 Here are some simple steps that we can take to IMPROVE OUR COMMUNICATION PROCESS:
 
 Set clear goals - Before starting a project, it's important to define what the expected outcome should look like. This will help us stay on track and avoid any confusion.
