@@ -1,3 +1,4 @@
+<img width="1030" alt="image" src="https://user-images.githubusercontent.com/61100293/219045652-1019b702-a5b9-46b3-8206-1c9dd2d25c8e.png">
 
 Here are some simple steps that we can take to IMPROVE OUR COMMUNICATION PROCESS:
 
